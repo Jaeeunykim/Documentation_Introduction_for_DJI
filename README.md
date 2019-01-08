@@ -12,7 +12,7 @@ Mobile SDK 문서의 목표는 iOS 또는 Android를 사용하는 개발자가 D
 
 대부분의 DJI의 항공기와 카메라는 DJI Mobile SDK를 이용하여 자동화 할 수 있다. 이 섹션에서는 이러한 제품들을 비교,소개하고 Mobile SDK와 모바일 아키텍처를 소개 한다. 
 
-- Hardware Products
+- [Hardware Products](./Introduction/Hardware_Products)
 - Mobile SDK Introduction
 - SDK Architectural Overview
 
